@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\unrealeditor\\inc\\endlessrunner202211\\endlessrunner202211.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\endlessrunner202211editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\unrealeditor\\development\\endlessrunner202211\\definitions.endlessrunner202211.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

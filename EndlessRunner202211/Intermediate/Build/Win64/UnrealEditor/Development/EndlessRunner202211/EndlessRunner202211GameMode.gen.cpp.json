@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\unrealeditor\\inc\\endlessrunner202211\\endlessrunner202211gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\endlessrunner202211editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\unrealeditor\\development\\endlessrunner202211\\definitions.endlessrunner202211.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\source\\endlessrunner202211\\endlessrunner202211gamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_endlessrunner_20221125\\endlessrunner202211\\intermediate\\build\\win64\\unrealeditor\\inc\\endlessrunner202211\\endlessrunner202211gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
